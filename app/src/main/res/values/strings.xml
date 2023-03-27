@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">Lab_1</string>
+    <string name="this_is_a_note_app_where_u_can_save_a_text">This is a note app where u can save a text</string>
+    <string name="enter_password">Enter password</string>
+    <string name="back">Back</string>
+</resources>
